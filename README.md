@@ -23,7 +23,7 @@ In this repository I have created a bootstraped docker container that will
 ## Pre-Requisit
 
 
-### vSphere Tanzu Kubernetes Grid Environment
+#### vSphere Tanzu Kubernetes Grid Environment
 
 ***This step is ONLY required for TKG on vSphere envieonment. Skip this section if you are deploying Tanzu Build Service (TBS) on a public cloud cluster***
 
