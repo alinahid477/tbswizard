@@ -1,5 +1,7 @@
 # Tanzu Build Service on Public Cloud
 
+***This repo is a part of the Merlin initiative (https://github.com/alinahid477/merlin)***
+
 <img src="images/logo.png" alt="Tanzu Build Service Wizard" width=200 height=210/>
 
 Tanzu build service is a pretty cool tool for automating build process and segregating devlopmenet and operations. (Read more about TBS here: https://tanzu.vmware.com/build-service)
